@@ -1,0 +1,19 @@
+/*
+/* CSS Absolute Center
+/* Written by Debashis Barman (www.debashisbarman.in)
+/* Version 1.0 (Stable)
+/* Licensed under MIT (http://opensource.org/licenses/MIT)
+/*
+
+/* CSS For Absolute Centering
+=========================*/
+.vertical-center-wrapper {
+width: 100%;
+height: 100%;
+display: table;	
+}
+.vertical-center {
+display: table-cell;
+vertical-align: middle;
+text-align: center;	
+}
