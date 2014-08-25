@@ -7,12 +7,12 @@
 
 /* CSS For Absolute Centering
 =========================*/
-.vertical-center-wrapper {
+.absolute-center-wrapper {
 width: 100%;
 height: 100%;
 display: table;	
 }
-.vertical-center {
+.absolute-center {
 display: table-cell;
 vertical-align: middle;
 text-align: center;	
